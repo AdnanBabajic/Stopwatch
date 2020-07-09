@@ -1,1 +1,3 @@
 # Stopwatch
+
+Simple stopwatch application
